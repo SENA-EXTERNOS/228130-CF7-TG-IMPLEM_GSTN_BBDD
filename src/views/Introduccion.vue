@@ -15,7 +15,7 @@
             img(src='@/assets/curso/temas/img-intro.svg')
         .col-lg-8.bor-d
           .bloque-texto-a__texto.p-4
-            p Estimado aprendiz, a través del presente componente formativo conocerá sobre las fuentes de datos, procesos ETL, creación data warehause, herramientas de depuración y gestión de bodegas de datos.  Cuando se registró el nacimiento de las DBASE, se cerró una enorme brecha en cuanto a las soluciones de software empresariales del momento, no obstante, la evolución normal que se dio, desde ese mismo momento, especialmente, en el tema de la cantidad de registros que se generan, obligó a acelerar los adelantos y tecnología existentes, trayendo consigo conceptos revolucionarios como el de las bodegas de datos o data darehouse. Lo invitamos a ver el siguiente video para documentarse sobre cada una de las temáticas comprendidas.
+            p Estimado aprendiz, a través del presente componente formativo conocerá sobre las fuentes de datos, procesos ETL, creación data <em>warehause,</em> herramientas de depuración y gestión de bodegas de datos.  Cuando se registró el nacimiento de las DBASE, se cerró una enorme brecha en cuanto a las soluciones de <em>software</em> empresariales del momento, no obstante, la evolución normal que se dio, desde ese mismo momento, especialmente, en el tema de la cantidad de registros que se generan, obligó a acelerar los adelantos y tecnología existentes, trayendo consigo conceptos revolucionarios como el de las bodegas de datos o data <em>darehouse</em>. Lo invitamos a ver el siguiente video para documentarse sobre cada una de las temáticas comprendidas.
             p
               b ¡Muchos éxitos en este proceso de aprendizaje!
 

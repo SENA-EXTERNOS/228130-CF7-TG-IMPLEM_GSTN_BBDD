@@ -20,7 +20,7 @@
       .row(titulo="Metodologías")
         .col-md-7.mb-4.mb-md-0
           p En un sistema transaccional “normal”, están a la orden del día las actualizaciones, lo cual implica que el dato actual desaparece (literalmente) y en su lugar se guarda un dato nuevo, puede ser solo de una columna o de todo el registro, si fuera necesario, el problema surge cuando se requiere, de una u otra forma, volver a contar con ese dato antiguo o desactualizado. Conclusión, solo se guarda la última versión de la información.
-          p Este concepto en el ámbito del data warehouse no aplica, de hecho, no se puede aplicar y la forma de tener registro de un historial completo, efectivo, optimo en un sistema data warehouse, tal que permita acceder, consultar y explorar en cualquier momento un dato especifico, es aplicando las metodologías<em> Slowly Changing Dimensions (SCD)</em>. En síntesis, cuando unos datos, a través del tiempo, se modifican en reiteradas ocasiones, se puede tomar uno de dos caminos:
+          p Este concepto en el ámbito del <em>data warehouse</em> no aplica, de hecho, no se puede aplicar y la forma de tener registro de un historial completo, efectivo, óptimo en un sistema <em>data warehouse</em>, tal que permita acceder, consultar y explorar en cualquier momento un dato específico, es aplicando las metodologías<em> Slowly Changing Dimensions (SCD)</em>. En síntesis, cuando unos datos, a través del tiempo, se modifican en reiteradas ocasiones, se puede tomar uno de dos caminos:
           ul.lista-ul--color
             li 
               i.fas.fa-circle.circle
