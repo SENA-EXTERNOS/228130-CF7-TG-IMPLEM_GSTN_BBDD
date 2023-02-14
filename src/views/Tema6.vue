@@ -34,12 +34,13 @@
                 i.fas.fa-circle.circle
                 p.mb-0 Finalmente, se determinan acciones nuevas, que se adicionan a las operaciones y al quehacer diario empresarial, producto de los dos ítems anteriores, (Wanumen et al., 2017).
 
-    separador 
+    .row.mt-5
+      ul.lista-ul--color.lista-ul--separador
+          li 
+            i.fas.fa-square
+            h3 Consultas y reportes de bodegas de datos
 
-    #t_6_1.titulo-segundo.color-acento-contenido
-      h2 6.1 Consultas y reportes de bodegas de datos
-
-    p.mb-5 Una vez que se tienen los datos almacenados en la bodega de datos, es decir, posterior a su extracción, procesamiento y cargue, existen herramientas que permiten su consulta, reportes y, en general, facilitan la toma de decisiones que se basa en dicha información. Las principales son:
+    p.mb-5 Una vez que se tienen los datos almacenados en la bodega de datos, es decir, posterior a su extracción, procesamiento y cargue, existen herramientas que permiten su consulta, reportes y, en general, facilitan la toma de decisiones que se fundamenta en esta información. Algunas herramientas para consultas y reportes, son:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5
@@ -51,10 +52,11 @@
           p.text-small(numero="2" titulo="<em>Data mining </em>") Ominería de datos, es una herramienta utilizada para el análisis de grandes cantidades de información para identificar determinados comportamientos o patrones que permitan la mejora de los procesos. Esto permite que el <em>Data mining </em>sea utilizado en sectores como las finanzas, el <em>marketing, e-comerce, </em>entre otros, basados en que, al tener los datos cargados, se pueden construir consultas y reportes que permiten la toma de decisiones con un buen nivel de certeza, puesto que los resultados que muestran dichos reportes, producto de las mencionadas consultas, redundan directamente en el crecimiento de la empresa, (Wanumen et al., 2017).
  
 
-    separador 
-
-    #t_6_1.titulo-segundo.color-acento-contenido
-      h2 6.2 Sistemas de soporte y apoyo
+    .row.mt-5
+      ul.lista-ul--color.lista-ul--separador
+          li 
+            i.fas.fa-square
+            h3 Sistemas de soporte y apoyo
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7
@@ -66,8 +68,8 @@
           img.mb-5(src='@/assets/curso/temas/tema6/img-4.svg') 
       .col-lg-8
         .cajon.color-acento-contenido.p-4.fnd-3 
-          p Recuerde que el componente formativo dispone de más recursos que se ubican en este, los cuales son relevantes para el afianzamiento de los contenidos: síntesis, actividad didáctica y material complementario.
-
+          p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
+          
 
 </template>
 

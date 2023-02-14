@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Procesos, reportes de fuentes de datos',
     descripcionCurso:
-      'El manejo de grandes cantidades de datos requiere de un tratamiento diferente, especial, lo cual implica unos saberes y competencias igual de especiales por las implicaciones que esto conlleva principalmente, por su gran importancia en la toma de decisiones empresariales.',
+      'El manejo de grandes cantidades de datos requiere de un tratamiento diferente, especial, lo cual implica unos saberes y competencias igual de importantes, debido a las implicaciones que esto conlleva, sobre todo, por su gran importancia en la toma de decisiones empresariales.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal-.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal-.png'),
     imagenesDecorativasBanner: [
@@ -35,38 +35,6 @@ export default {
         numero: '1',
         titulo: 'Fuentes de datos',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Sistemas transaccionales',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Bases de datos',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Archivos planos',
-            hash: 't_1_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'APIs',
-            hash: 't_1_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.5',
-            titulo: 'Ficheros de texto',
-            hash: 't_1_5',
-          },
-        ],
       },
 
       {
@@ -103,20 +71,6 @@ export default {
         numero: '6',
         titulo: 'Gestión de bodega de datos',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '6.1',
-            titulo: 'Consultas y reportes de bodega de datos',
-            hash: 't_6_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '6.2',
-            titulo: 'Sistemas de soporte y apoyo',
-            hash: 't_6_2',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -161,23 +115,23 @@ export default {
   },
   complementario: [
     {
-      tema: 'Data warehouse',
+      tema: 'Fuentes de datos',
       referencia:
-        'Luna, E. & García, F. (2006). El repositorio de metadatos en un data warehouse. <em>Red Revista de Facultad de Ingeniería.</em> ',
+        'Luna, E. & García, F. (2006). El repositorio de metadatos en un data warehouse. <em>Red Revista de Facultad de Ingeniería</em>.',
       tipo: 'Revista',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/12241',
     },
     {
-      tema: 'Data warehouse',
+      tema: 'Fuentes de datos',
       referencia:
-        'Curto, J. & Conesa, J. (2015). <em>¿Cómo crear un data warehouse? Editorial UOC.</em> ',
+        'Curto, J. & Conesa, J. (2015). <em>¿Cómo crear un data warehouse?</em> Editorial UOC. ',
       tipo: 'Libro',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/114035',
     },
     {
-      tema: 'Grafos',
+      tema: 'Fuentes de datos',
       referencia:
         'Rodríguez, M. & Conesa, J. (2017). <em>¿Cómo usar una base de datos en grafo?</em> Editorial UOC. ',
       tipo: 'Libro',
@@ -185,9 +139,9 @@ export default {
         'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/58639',
     },
     {
-      tema: 'Ingeniería de Requerimientos',
+      tema: 'Fuentes de datos',
       referencia:
-        'Pressman, R. (2010). Ingeniería de software. Un enfoque práctico <em>(7 edición)</em>.  Mac Graw Hill.',
+        'Pressman, R. (2010). <em>Ingeniería de software. Un enfoque práctico</em> (7 edición).  Mac Graw Hill.',
       tipo: 'Libro',
       link:
         'https://www-ebooks7-24-com.bdigital.sena.edu.co/stage.aspx?il=&pg=&ed=',
@@ -251,7 +205,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Arias, J. (19 de mayo de 2020). Herramientas gratis para hacer wireframes y prototipos. <em>UXABLES BLOG.</em>',
+        'Arias, J. (19 de mayo de 2020). <em>Herramientas gratis para hacer wireframes y prototipos</em>. UXABLES BLOG.',
       link:
         'http://www.uxables.com/herramientas-recursos-ux-ui/herramientas-gratis-para-hacer-wireframes-y-prototipos/',
     },
@@ -267,13 +221,13 @@ export default {
     },
     {
       referencia:
-        'Crespo, S., Medianero, X. & Clunie, C. (2012). M-TAR: metodología para el tratamiento de apectos en requerimientos. <em>Prisma Tecnológico 3(1).</em> ',
+        'Crespo, S., Medianero, X. & Clunie, C. (2012). M-TAR: metodología para el tratamiento de apectos en requerimientos. <em>Prisma Tecnológico 3</em>(1).',
       link:
         'https://revistas.utp.ac.pa/index.php/prisma/article/view/550/html#:~:text=El%20Modelo%20ViewPoint%20(Puntos%20de,detallado%20y%20mejorado%20%5B9%5D',
     },
     {
       referencia:
-        'Duque, C, (2022). Levantamiento de requerimientos en tiempos de pandemia.<em> Tecnología Investigación y Academia, 10(1), 5-19.</em> ',
+        'Duque, C, (2022). Levantamiento de requerimientos en tiempos de pandemia.<em> Tecnología Investigación y Academia, 10</em>(1), 5-19.',
       link:
         'https://revistas.udistrital.edu.co/index.php/tia/article/view/17883',
     },
@@ -285,12 +239,12 @@ export default {
     },
     {
       referencia:
-        'Grupo ACMS Consultores. (2019). Norma ISO 33000 calidad de procesos de desarrollo software. <em>Grupo ACMS Consultores.</em> ',
+        'Grupo ACMS Consultores. (2019). <em>Norma ISO 33000 calidad de procesos de desarrollo software</em>. Grupo ACMS Consultores.',
       link: 'https://www.grupoacms.com/norma-iso-33000',
     },
     {
       referencia:
-        'Luján, D. (2017). ¿Cómo se deciden las versiones del<em> software? EDteam.</em> ',
+        'Luján, D. (2017). <em>¿Cómo se deciden las versiones del software?</em> EDteam.',
       link: 'https://ed.team/blog/como-se-deciden-las-versiones-del-software',
     },
     {
@@ -299,36 +253,36 @@ export default {
     },
     {
       referencia:
-        'Medina, J., Pineda, E. & Téllez, F. (2019). Requerimientos de <em>software</em>: prototipado,<em> software</em> heredado y análisis de documentos.<em> Ingenieria y Desarrollo, 37(2).</em> ',
+        'Medina, J., Pineda, E. & Téllez, F. (2019). Requerimientos de <em>software</em>: prototipado,<em> software</em> heredado y análisis de documentos.<em> Ingenieria y Desarrollo, 37</em>(2).',
       link:
         'http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0122-34612019000200327',
     },
     {
       referencia:
-        'Molina, D. (9 de diciembre de 2021). Qué es un product backlog y cómo hacer uno [Guía Scrum].<em>IEBS.</em> ',
+        'Molina, D. (9 de diciembre de 2021). <em>Qué es un product backlog y cómo hacer uno [Guía Scrum]</em>.IEBS.',
       link:
         'https://www.iebschool.com/blog/que-es-un-product-backlog-y-como-hacer-uno-guia-scrum-agile-scrum/#:~:text=Un%20product%20backlog%20es%20una,visibles%20para%20todo%20el%20equipo',
     },
     {
       referencia:
-        'Naeem, T. (21 de febrero de 2020). <em>Automatización de datos:</em> cómo transforma el panorama empresarial. <em>Astera.</em> ',
+        'Naeem, T. (21 de febrero de 2020). <em>Automatización</em> de datos: cómo transforma el panorama empresarial. Astera.',
       link:
         'https://www.astera.com/es/tipo/blog/automatizaci%C3%B3n-de-datos/ ',
     },
     {
       referencia:
-        'Novoseltseva, E. (16 de enero de 2020). Técnicas de priorización de requererimientos de Software.<em> Apiumhub. </em>',
+        'Novoseltseva, E. (16 de enero de 2020). <em>Técnicas de priorización de requererimientos de Software.</em> Apiumhub.',
       link:
         'https://apiumhub.com/es/tech-blog-barcelona/priorizacion-requerimientos-software/',
     },
     {
       referencia:
-        'Peralta, E. (2021). Cómo funciona la metodología Scrum. <em>Genwords.</em> ',
+        'Peralta, E. (2021). <em>Cómo funciona la metodología Scrum. </em>Genwords.',
       link: 'https://www.genwords.com/blog/metodologia-scrum',
     },
     {
       referencia:
-        'Rehan, A. (20 de abril de 2021). ¿Qué es un archivo plano?<em> Astera.</em> ',
+        'Rehan, A. (20 de abril de 2021). <em>¿Qué es un archivo plano?</em> Astera.',
       link:
         'https://www.astera.com/es/topic/data-integration/flat-file-connectors/',
     },
@@ -347,7 +301,7 @@ export default {
     },
     {
       referencia:
-        'Vaware Labs. (19 de febrero de 2020). Wireframes y Mockups: conoce los tipos de prototipo. <em>Vaware Labs.</em> ',
+        'Vaware Labs. (19 de febrero de 2020). <em>Wireframes y Mockups: conoce los tipos de prototipo. </em>Vaware Labs.',
       link:
         'https://vawarelabs.com/comunidad-agile/diseno-ux-ui/wifreframes-prototipos-diseno-mockups/',
     },

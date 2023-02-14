@@ -19,15 +19,21 @@
 
         p Indiscutiblemente, en la actualidad el <em>Big Data</em> tiene un uso de grandes cantidades de información empresarial, óptimo y efectivo, no obstante, cuando se logra su manejo y se le adicionan las características de los ERP, los avances en cuanto a rendimiento, optimización y resultados son mayores, lo que redunda en encontrar nuevas posibilidades de negocios, tomar mejores decisiones y, es decir, avanzar hacia una mejora ostensible de procesos. Incluso, se puede entrar en el terreno de las predicciones, basándose en el estudio de determinados comportamientos de clientes. Siempre se menciona como una desventaja el alto costo de estos procesos y herramientas, sin embargo, a futuro y con los resultados mostrados, termina siendo un ahorro de costos muy importante, (Crespo et al., 2012).
 
+    .row.mt-5
+      p Visualice el siguiente video, donde se habla a profundidad, de algunas fuentes de datos:
+    
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/Fj3zHwTwVsg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Leyenda del video
 
-    separador 
 
-    #t_1_1.titulo-segundo.color-acento-contenido
-      h2 1.1 Sistemas transaccionales
+    .row.mt-5
+      ul.lista-ul--color.lista-ul--separador
+          li 
+            i.fas.fa-square
+            h3 Sistemas transaccionales
+
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5.fnd-2 
@@ -37,7 +43,7 @@
                 img(src='@/assets/curso/temas/tema1/img-2.svg')
             .col-lg-8.bor-d
               .bloque-texto-a__texto.p-4
-                p Son un tipo de sistemas de información desarrollados para recolectar, almacenar, actualizar y consultar todo tipo de datos generados a partir del normal y diario funcionamiento de la empresa; es decir, se deriva de sus transacciones. Clarifiquemos que una transacción es un suceso que genera un movimiento en la información, lo cual indica que puede adicionar, modificar, consultar y hasta eliminar datos, previamente producidos por un sistema de información. Los sistemas transaccionales son una de las posibilidades a la hora de construir sistemas de información, su utilización se aumenta en todo el <em> software</em> de intercambio de datos, como transferir dinero de una cuenta a otra, manipular información de personas, manejar información de productos, etc.    
+                p Son sistemas de información desarrollados para recolectar, almacenar, actualizar y consultar todo tipo de datos, generados a partir del normal y diario funcionamiento de la empresa; es decir, se deriva de sus transacciones. Clarifiquemos que una transacción es un suceso que genera un movimiento en la información, lo cual indica que puede adicionar, modificar, consultar y hasta eliminar datos, previamente producidos por un sistema de información. Los sistemas transaccionales son una de las posibilidades a la hora de construir sistemas de información; su utilización se aumenta en todo el software de intercambio de datos, como transferir dinero de una cuenta a otra, manipular información de personas, manejar información de productos, etc.
 
     p.mb-5 Lo sistemas transaccionales deben proveer a sus usuarios de características específicas como: 
     .row.justify-content-center.mb-5
@@ -56,10 +62,11 @@
           p Todo lo anterior, se traduce en agilidad de procesos automatizados, en dar la posibilidad de realizar tareas complicadas en forma muy sencilla, realizar almacenamiento y gestión masiva de datos, etc.
 
 
-    separador 
-
-    #t_1_2.titulo-segundo.color-acento-contenido
-      h2 1.2 Bases de datos
+    .row.mt-5
+      ul.lista-ul--color.lista-ul--separador
+          li 
+            i.fas.fa-square
+            h3 Bases de datos
 
     p.mb-5 A continuación, se presenta información sobre las bases de datos. 
 
@@ -92,11 +99,11 @@
               img(src='@/assets/curso/temas/tema1/img-7.svg')
 
 
-    ul.lista-ul--color.mor
-      li 
-        i.fas.fa-square
-        | 
-        h3.text-black Tipos de bases de datos
+    .row.mt-5
+      ul.lista-ul--color.lista-ul--separador
+          li 
+            i.fas.fa-square
+            h3 Tipos de bases de datos
 
     .row.justify-content-between.mb-5
       .col-md-6.col-lg-6.mb-5
@@ -105,9 +112,9 @@
             img(src='@/assets/curso/temas/tema1/img-8.svg')
 
       .col-md-6.col-lg-6
-        p Actualmente el <em>marketing</em> es una fuente de ventas y aumento de ellas; en todos los campos de la sociedad moderna, todas las empresas buscan mejorar sus ingresos, aumentado sus ventas, basados en distintos modelos de divulgación y estrategias comerciales, que tienen un denominador común: las bases de datos. Es tanto el auge exponencial de este campo, que se hacen chistes, memes al respecto y hasta se plantean teorías conspirativas en torno a que las gigantes corporativas nos escuchan y hasta nos leen los pensamientos. Lo que es necesario que se tenga claro es que estas estrategias, acciones y demás aspectos del tema, parten de una simple base datos de sus clientes, es decir, el principio es muy simple: ¿qué se le puede ofrecer a los clientes si no se sabe que necesitan? Esto traduce en que se debe tener la información clave de los clientes para poder tomar las decisiones correctas en cuanto al ofrecimiento de uno u otro producto, lo cual desemboca en escoger el tipo de base datos que se requiere, teniendo en cuenta que el merado nos ofrece varias posibilidades, (Valderrey, 2020).
+        p Actualmente el <em>marketing</em> es una fuente de ventas y aumento de ellas; en todos los campos de la sociedad moderna, todas las empresas buscan mejorar sus ingresos, aumentado sus ventas, basados en distintos modelos de divulgación y estrategias comerciales, que tienen un denominador común: las bases de datos. Se debe tener claro que estas estrategias y acciones, parten de una simple base datos de sus clientes, es decir, el principio es muy simple: ¿qué se le puede ofrecer a los clientes si no se sabe lo que necesitan? Esto traduce en que se debe tener la información clave de los clientes para poder tomar las decisiones correctas en cuanto al ofrecimiento de uno u otro producto, lo que desemboca en escoger el tipo de base datos que se requiere, teniendo en cuenta que el merado nos ofrece varias posibilidades. (Valderrey, 2020)
 
-    p.mb-5 Las bases de datos nos presentan una amplia gama de posibilidades, dependiendo de la necesidad que tenga el proyecto de desarrollo de <em>software</em> en construcción, lo cual da la facilidad de utilizar específicamente la que cubra esa necesidad. Se presentan a continuación algunos tipos: 
+    p.mb-5 Las bases de datos nos presentan una amplia gama de posibilidades, dependiendo de la necesidad que tenga el proyecto de desarrollo de software en construcción, lo que aporta facilidad para utilizar, específicamente, la que cubra esa necesidad. Se presentan a continuación, algunos tipos de bases de datos: 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
@@ -135,25 +142,29 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
+                  h3 Tipos de bases de datos
                   p.text-small Para conocer un poco más sobre los diferentes tipos de bases de datos se le invita a consultar el siguiente documento.  
                 .col-sm-auto
                   a.boton.color-acento-botones.nn(:href="obtenerLink('downloads/CF7_228130_Anexo.pdf')" target="_blank")
                     span.nn Descargar
                     i.nn.fas.fa-file-download
 
-    separador 
+    .row.mt-5
+      ul.lista-ul--color.lista-ul--separador
+          li 
+            i.fas.fa-square
+            h3 Archivos planos
 
-    #t_1_3.titulo-segundo.color-acento-contenido
-      h2 1.3 Archivos planos
-    p.mb-5 A continuación, información importante para tener en cuenta sobre los archivos planos: 
+    p Los archivos planos son una recopilación de información que está guardada digitalmente y se puede acceder a ella muy organizadamente, en una base de datos. Con frecuencia, es utilizada para guardar información, con la condición, que no es estructurada.
+
+    p.mb-5 Los archivos planos cuentan información importante; a continuación aprenderemos sobre su uso, contenido y otras características importantes: 
+    
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
         figure
             img(src='@/assets/curso/temas/tema1/img-10.svg')
       .col-lg-6
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul fnd-4- fnd-7")
-          .row(titulo="Definición")
-              p Los archivos planos son una recopilación de información que está guardada digitalmente y se puede acceder a ella muy organizadamente en una base de datos. Muchas veces, es utilizada para guardar información, con la condición de que no es estructurada.
           .row(titulo="Uso")
               p Es imposible ocultar que cuando se pretenden trabajar con una cantidad grande de información, es muy incómodo. Uno de los casos más frecuentes de la utilización de archivos planos, son los famosos documentos CSV (valores separados por coma), que, como su nombre lo indica, presenta cada campo o columna separados por una coma. Además, la información almacenada en este tipo de archivos (CSV), respetan el estándar estadounidense conocido como Código ASCII, utilizado mundialmente para el intercambio de información.
           .row(titulo="Contenido")
@@ -164,10 +175,11 @@
               p Las bases de datos de archivos planos, carecen de un límite predeterminado para el número de filas o registros, muy a pesar de la dificultad de su manejo. Esto da como resultado que el tamaño de una base de datos de archivos planos, solamente lo limitan las condiciones y características de los sistemas operativos del equipo de cómputo o en su defecto, de los correspondientes administradores de archivos. La excepción que confirma esta regla es que algunas aplicaciones de base de datos, al momento de crear bases de datos de archivos planos, tiene políticas definidas en torno a la longitud de filas, columnas y del propio archivo (Wanumen et al. 2017).
           
 
-    separador 
-
-    #t_1_4.titulo-segundo.color-acento-contenido
-      h2 1.4 APIs
+    .row.mt-5
+      ul.lista-ul--color.lista-ul--separador
+          li 
+            i.fas.fa-square
+            h3 APIs
 
 
     .row.justify-content-between.mb-5
@@ -176,14 +188,14 @@
             img(src='@/assets/curso/temas/tema1/img-11.svg')
 
       .col-md-6.col-lg-7
-        p Las API o <em>Application Programming Interface</em>, que en español quiere decir interfaz de programación de aplicaciones, son módulos que hacen posible la comunicación entre dos componentes de <em>software</em>, mediante una serie de protocolos y definiciones. Un ejemplo clásico, que incluso es parte de la vida cotidiana, son los portales del instituto de meteorología que, cumpliendo con su función, genera datos meteorológicos permanentemente y se los “comenta” a los teléfonos para que la población esté informada de los cambios climáticos, realizando actualizaciones permanentes y periódicas. Haciendo el desglose del término en español “interfaz de programación de aplicaciones”, encontramos que la palabra aplicación hace referencia un <em>software</em> con una función distinta al propio o actual; por su parte, <em>Interfaz</em> hace referencia a un mutuo acuerdo (contrato) de compartir servicios entre dos aplicaciones; dicho acuerdo hace especial énfasis y se centra en enviar y recibir solicitudes, con sus consecuentes respuestas. Finalmente, la documentación de cada API debe poseer los parámetros que los desarrolladores deben respetar para construir y/o estructurar las mencionadas solicitudes y respuestas.
+        p La Interfaz de Programación de Aplicaciones API (<em>Application Programming Interfaces</em>), se refiere a módulos que hacen posible la comunicación entre dos componentes de software, mediante una serie de protocolos y definiciones. Un ejemplo clásico, son los portales del Instituto de Meteorología que, cumpliendo con su función, genera datos meteorológicos permanentemente y se los “comenta” a los teléfonos para que la población esté informada de los cambios climáticos, realizando actualizaciones permanentes y periódicas. La palabra aplicación hace referencia a un software con una función distinta al propio o actual; interfaz hace referencia a un mutuo acuerdo (contrato) de compartir servicios entre dos aplicaciones y, este acuerdo, se centra en enviar y recibir solicitudes, con sus consecuentes respuestas; finalmente, la documentación de cada API debe poseer los parámetros que los desarrolladores deben respetar, para construir y/o estructurar las mencionadas solicitudes y respuestas. 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .cajon.color-acento-contenido.p-4.mb-4.fnd-3 
-          p La forma más sencilla y simpe de explicar la arquitectura de las API, es utilizando el modelo cliente-servidor, donde quien envía solicitudes es el cliente y quien las responde es el servidor.  En un restaurante se tiene N cantidad de comensales, que realizan todo tipo de pedidos, son los clientes y el personal del restaurante que atiende y responde cada uno de esos pedidos, son el servidor.
+          p La forma más sencilla y simpe de explicar la arquitectura de las API, es utilizando el modelo cliente-servidor, donde quien envía solicitudes es el cliente y quien las responde es el servidor. En un restaurante se tiene N cantidad de comensales, que realizan todo tipo de pedidos, y estos son los clientes; el personal del restaurante, que atiende y responde cada uno de esos pedidos, son el servidor.
 
-    p.mb-5 Básicamente, las APIs pueden funcionar dependiendo del motivo y en qué momento fue creada, así:
+    p.mb-5 Básicamente, las APIs pueden funcionar dependiendo del motivo y en qué momento fueron creadas; veamos este proceso:
 
     .row.justify-content-center.mb-5
       .col-lg-7
@@ -191,22 +203,24 @@
           p.text-small(numero="1" titulo="<em>SOAP</em>") En este caso, los mensajes son intercambiados mediante XML entre el cliente y el servidor, por tal razón es más rígida, pero muy utilizada en años anteriores.  
           p.text-small(numero="2" titulo="<em>RPC</em>") Conocidas como llamadas a procedimientos remotos. 
           p.text-small(numero="3" titulo="<em>WebSocket</em>") Ya utilizando una tecnología más moderna, específicamente en el ambiente <em>web</em>, los mensajes se envían y reciben mediante objetos JSON, permitiendo comunicación bidireccional entre el cliente y el servidor. Esto hace a este tipo de APIs más eficientes que la anterior. 
-          p.text-small(numero="4" titulo="<em>REST</em>") Son las más sencillas, flexibles y, por ende, más populares y utilizadas, porque el cliente envía sus solicitudes como datos sencillos, a lo cual el servidor responde, previo proceso, con datos de salida al respectivo cliente, (Martínez & Gallegos, 2017). 
+          p.text-small(numero="4" titulo="<em>REST</em>") Son las más sencillas, flexibles y, por ende, más populares y utilizadas, porque el cliente envía sus solicitudes como datos sencillos, a lo cual el servidor responde, previo proceso, con datos de salida al respectivo cliente (Martínez & Gallegos, 2017).
+
       .col-lg-5
         figure
             img(src='@/assets/curso/temas/tema1/img-12.svg')
 
-    separador 
+    .row.mt-5
+      ul.lista-ul--color.lista-ul--separador
+          li 
+            i.fas.fa-square
+            h3 Ficheros de texto
 
-    #t_1_5.titulo-segundo.color-acento-contenido
-      h2 1.5 Ficheros de texto
-    p.mb-5 A continuación, se mencionan algunos formatos de ficheros de texto.
+    p.mb-5 A continuación, se mencionan algunos formatos de ficheros de texto:
 
     .tarjeta.tarjeta--azul.p-4.mb-5.fnd-4
       SlyderA(tipo="b")
         .row.align-items-center
           .col-md-7.mb-4.mb-md-0
-            h3 XML
             p El Extensible <em>Markup Language</em> o XML (por sus siglas en inglés), es un lenguaje de marcado que tiene estructurado y muy bien especificado un conjunto de reglas para la codificación de documentos. Precisando el concepto, lo que se llama “lenguaje de marcado” es una serie de reglas con sus consecuentes códigos, que se emplean para analizar información, previamente leída de textos que anteriormente fueron creados por humanos o computadores. En otras palabras, un poco menos técnicas, XML nos provee de una plataforma para especificar elementos que permitan la creación de formatos y elaborar un lenguaje que puede llegar a ser personalizado. 
           .col-md-5
             figure
@@ -226,7 +240,6 @@
               img(src='@/assets/curso/temas/tema1/img-13.svg')    
         .row.align-items-center
           .col-md-7.mb-4.mb-md-0
-            h3 JSON
             p JSON quiere decir <em>JavaScript Object Notation </em>(por sus siglas en inglés), que en español significa algo como notación de objetos de <em>JavaScript</em>; es un formato para el intercambio de datos que es muy sencillo de leer y, lo más importante, de escribir para los desarrolladores e igualmente sencillo de interpretar y crear para las computadoras. Es muy importante dejar claro que JSON es un formato de texto, completamente independiente de todos los lenguajes de programación, no obstante, para su construcción, se utilizan términos muy conocidos por los programadores, por su semejanza con herramientas de programación como <em>Java, C, C++, Python, JavaScript, Perl, C#,</em> por mencionar los más utilizados. JSON básicamente utiliza seis tipos de datos, a saber: cadenas, booleanos, matrices, objetos, numéricos y nulo. Es necesario precisar que por llevar el nombre <em>JavaScript </em>en sus siglas, no es necesariamente parte de este lenguaje, también debe quedar claro que se trata de un estándar que se basa en texto plano, utilizado en el intercambio de datos, es decir, cuando se requiere que un aplicativo le envíe información a otro aplicativo y dichos datos sean de fácil lectura e interpretación. Otro aspecto a tener en cuenta aclarar, por la cantidad de confusión que produce, es que JSON no es un lenguaje de programación, reiteramos, se utiliza solo para transferir datos. 
           .col-md-5
             figure

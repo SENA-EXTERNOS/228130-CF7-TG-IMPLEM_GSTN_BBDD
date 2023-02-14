@@ -10,7 +10,8 @@
 
     .row.justify-content-between.mb-5
       .col-md-6.col-lg-7
-        p ETL significa <em>Extract, Transform, Load</em> (por sus siglas en inglés), que en español significa: extraer, transformar y cargar. Mediante estas tres fases, se maneja este proceso, que tiene como principal objetivo, una gestión efectiva, óptima y eficiente de datos y en general, cualquier tipo de información que las empresas generen, almacenen, manejen; esta información se debe analizar y como es apenas lógico, debe producir unos resultados, basados en su interpretación. Es necesario dejar claro que la extracción de los datos se da de diferentes fuentes, incluyendo otros sistemas o aplicaciones; seguidamente, dichos datos, son procesados, para poder transformarlos e incluso, adaptarlos, en las salidas y/o sirvan de insumo para la toma de decisiones que requiera la empresa. Es obligatorio hacer énfasis, en el hecho que puede existir la más completa, interesante y precisa información de una empresa, pero sin el tratamiento adecuado, dichos datos tienen valor alguno.     
+        p La sigla ETL, Extraer, Transformar y Cargar (<em>Extract, Transform, Load</em>), se refiere a tres fases que manejan este proceso, que tiene como principal objetivo, una gestión efectiva, óptima y eficiente de datos y, en general, cualquier tipo de información que las empresas generen, almacenen y manejen; esta información debe analizar y producir unos resultados, basados en su interpretación. Es necesario dejar claro que la extracción de los datos se da de diferentes fuentes, incluyendo otros sistemas o aplicaciones; seguidamente, dichos datos, son procesados, para poder transformarlos, e incluso, adaptarlos, en las salidas y/o sirvan de insumo para la toma de decisiones que requiera la empresa. Es obligatorio hacer énfasis, en el hecho que puede existir la más completa, interesante y precisa información de una empresa, pero sin el tratamiento adecuado, dichos datos no tienen valor alguno. 
+
       .col-md-6.col-lg-5.mb-3
           figure
             img(src='@/assets/curso/temas/tema2/img-1.png')
@@ -24,11 +25,11 @@
                 img(src='@/assets/curso/temas/tema2/img-2.svg')
             .col-lg-8.bor-d
               .bloque-texto-a__texto.p-4
-                p Aunque pueda parecer extraño, seguramente por su difusión actual, ETL viene desde los años 70, producto de la imperiosa necesidad de las empresas de poseer y almacenar en sus bases de datos información relevante, que ayude en los distintos procesos comerciales, especialmente en la toma de decisiones. No obstante, sus inicios no fueron nada fácil, puesto que, en esa época, se trabajaba principalmente en forma manual, lo que propició el surgimiento del ETL, que hizo posible la integración de toda esa cantidad de información, en un único sitio centralizado y perfectamente controlado y manejado, que hoy se conoce como <em>data warehouse</em>, creado a inicios de la década de los 90.
+                p Aunque pueda parecer extraño, seguramente por su difusión actual, ETL viene desde los años 70, producto de la imperiosa necesidad de las empresas de poseer y almacenar en sus bases de datos, información relevante, que ayudara en los distintos procesos comerciales, especialmente en la toma de decisiones. No obstante, sus inicios no fueron nada fáciles, puesto que, en esa época, se trabajaba primordialmente de forma manual, lo que propició el surgimiento del ETL, que hizo posible la integración de toda esa cantidad de información, en un único sitio centralizado y perfectamente controlado y administrado y que hoy en día se conoce como data warehouse, creado a inicios de la década de los 90. 
 
         .cajon.color-acento-contenido.p-4.mb-4.fnd-3 
-          p Es decir, ETL es quien gestiona esa gran cantidad de datos, muy bien organizados, repartidos y almacenados, como ya se dijo, de diversas fuentes, tanto externa como interna, propiedad de la organización. Sin embargo, la extracción de dichos datos es bastante compleja, al igual que su consolidación.  Ahora bien y al margen de todas sus implicaciones, es necesario que la antes mencionada extracción, sea programada en periodos de tiempo precisos, con el objeto de que los mencionados datos tengan la más oportuna actualización (Martínez & Gallegos, 2017).
-
+          p Es decir, ETL es el que gestiona esa gran cantidad de datos, muy bien organizados, repartidos y almacenados, de diversas fuentes, tanto externas como internas, y consideradas como propiedad de la organización. Sin embargo, la extracción de dichos datos es bastante compleja, al igual que su consolidación. Ahora bien y al margen de todas sus implicaciones, es necesario que la antes mencionada extracción, sea programada en periodos de tiempos precisos, con el objeto que los mencionados datos tengan la más oportuna actualización. (Martínez & Gallegos, 2017)
+          
     .row.justify-content-center.align-items-center.mb-5
       .col-1
         figure
