@@ -8,7 +8,7 @@
         span 5
       h1 Herramientas de depuración
 
-    p.mb-5 A continuación, se presenta información sobre herramientas de depuración.
+    p.mb-3 A continuación, se presenta información sobre herramientas de depuración.
 
     .tarjeta.tarjeta--azul.p-4.mb-5.fnd-4
       SlyderA(tipo="b")

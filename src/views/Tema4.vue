@@ -60,8 +60,10 @@
               i.fas.fa-circle.circle
               p.mb-0 Campañas publicitarias que impliquen encuestas o alguna otra herramienta de obtención de información, entre otros.
 
+        .col-md-6
           figure
             img(src='@/assets/curso/temas/tema4/img-5.png')
+
       .row(titulo="Creación")
         .col-md-6.mb-4.mb-md-0
           p En este momento es el tiempo de crear el modelo de <em>data warehouse</em>, puesto que ya se establecieron todos los datos y las fuentes de dichos datos, haciendo énfasis en el modelo en estrella, que es el más importante y utilizado en estos casos. En este punto, se hace necesario, recomendar que se debe pasar la página de los modelos relacionales y sus implicaciones, como la integridad relacional; por ejemplo, si se quieren construir consultas eficientes de verdad, óptimas y eficaces, es inevitable repetir columnas (redundancia) que permitan la integración de distintas entidades (desnormalización), simplemente porque así lo demanda la situación, cuando la cantidad de datos es muy alta.
