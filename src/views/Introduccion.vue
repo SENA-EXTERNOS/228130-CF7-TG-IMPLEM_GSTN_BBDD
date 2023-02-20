@@ -15,7 +15,7 @@
             img(src='@/assets/curso/temas/img-intro.svg')
         .col-lg-8.bor-d
           .bloque-texto-a__texto.p-4
-            p Apreciado aprendiz, bienvenido a este componente formativo, donde conocerá sobre las fuentes de datos, procesos ETL, creación de data warehouse, herramientas de depuración y gestión de bodegas de datos. 
+            p Apreciado aprendiz, bienvenido a este componente formativo, donde conocerá sobre las fuentes de datos, procesos ETL, creación de <em>data warehouse</em>, herramientas de depuración y gestión de bodegas de datos. 
 
     .row.mt-5
       p En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo:
