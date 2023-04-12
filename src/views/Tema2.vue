@@ -18,7 +18,7 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5.fnd-2 
+        .bloque-texto-a.color-secundario.p-4.p-md-4.mb-5.fnd-2 
           .row.m-0.align-items-center.justify-content-between
             .col-lg-4.mb-4.mb-lg-0
               figure

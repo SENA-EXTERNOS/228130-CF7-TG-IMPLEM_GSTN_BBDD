@@ -24,7 +24,7 @@
     
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/Fj3zHwTwVsg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/1_7Bhatjkik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Leyenda del video
 
 
@@ -36,7 +36,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5.fnd-2 
+        .bloque-texto-a.color-secundario.p-4.p-md-4.mb-5.fnd-2 
           .row.m-0.align-items-center.justify-content-between
             .col-lg-4.mb-4.mb-lg-0
               figure
