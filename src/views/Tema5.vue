@@ -25,7 +25,7 @@
 
         .row
           .col-md-7.mb-4.mb-md-0
-            p Esto obliga a las empresas a realizar grandes, tediosos y muy costosos procesos de depuración de datos, que consiste en combinar dos o más archivos, listas de bases de datos, con el objeto de identificar registros similares o iguales, datos incorrectos, no deseados, mal digitados para poder desecharlos, catalogándolos como información no válida para la compañía y, finalmente, obtener registros únicos, bien construidos y con información veraz, que realmente sea de utilidad para la empresa.  Esta situación es frecuente, principalmente por la diferentes fuentes u origen de la información; una situación clásica en el medio colombiano, por ejemplo, es que en la facturación al señor Córdova, lo registran con “b”, es decir, “Córdoba”; en redes sociales, lo escriben con “v”, es decir, “Córdova”, en la EPS lo escribe sin tilde y así sucesivamente.
+            p Esto obliga a las empresas a realizar grandes, tediosos y muy costosos procesos de depuración de datos, que consiste en combinar dos o más archivos, listas de bases de datos, con el objeto de identificar registros similares o iguales, datos incorrectos, no deseados, mal digitados para poder desecharlos, catalogándolos como información no válida para la compañía y, finalmente, obtener registros únicos, bien construidos y con información veraz, que realmente sea de utilidad para la empresa.  Esta situación es frecuente, principalmente por las diferentes fuentes u origen de la información; una situación clásica en el medio colombiano, por ejemplo, es que en la facturación al señor Córdova, lo registran con “b”, es decir, “Córdoba”; en redes sociales, lo escriben con “v”, es decir, “Córdova”, en la EPS lo escribe sin tilde y así sucesivamente.
           .col-md-5
             figure
               img(src='@/assets/curso/temas/tema5/img-1.png')      
@@ -39,7 +39,7 @@
 
               li 
                 i.fas.fa-circle.circle
-                p.mb-0 Identificar los patrones presentes en las columnas, ejecutando comprobaciones de validación e incluso de transformación de información no válida o ilegitima, de tal manera que permita que todos los valores cumplan el patrón válido.
+                p.mb-0 Identificar los patrones presentes en las columnas, ejecutando comprobaciones de validación e incluso de transformación de información no válida o ilegítima, de tal manera que permita que todos los valores cumplan el patrón válido.
 
               li 
                 i.fas.fa-circle.circle

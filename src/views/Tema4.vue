@@ -8,7 +8,7 @@
         span 4
       h1 Creación <em>data warehause</em> 
 
-    p <em>Data warehouse</em> es un gran repositorio de datos, que nos permite un visión general, global, integrada, de la información de una organización, sin importar la utilización que se decida dar a dicha información, con relación a los usuarios finales; se trata de datos confiables, coherentes, óptimos, verdaderos y, lo más importante, con datos históricos muy precisos.
+    p <em>Data warehouse</em> es un gran repositorio de datos, que nos permite una visión general, global, integrada, de la información de una organización, sin importar la utilización que se decida dar a dicha información, con relación a los usuarios finales; se trata de datos confiables, coherentes, óptimos, verdaderos y, lo más importante, con datos históricos muy precisos.
 
     p A continuación, se presenta información relevante sobre data <em>warehouse</em>:
 

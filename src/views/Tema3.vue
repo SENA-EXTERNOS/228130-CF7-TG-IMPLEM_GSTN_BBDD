@@ -39,7 +39,7 @@
             img(src='@/assets/curso/temas/tema3/img-2.png')
       .row(titulo="Estrategias")
         .col-md-7.mb-4.mb-md-0
-          p <em>Ralph Kimball,</em> el creador de data <em>warehouse</em>, propuso inicialmente, las primeras tres estrategias para trabajar con las SCD, las cuales fueron:  tipo 1, tipo 2 y tipo 3. Pero con el tiempo se requirió la misma necesidad de mejora y se le adicionaron las tipo 4, tipo 5 y tipo 6; estas nuevas categorías, nacieron de los profesionales que trabajan en el tema, modelando y estudiando a profundidad dichos modelos:  
+          p <em>Ralph Kimball,</em> el creador de data <em>warehouse</em>, propuso inicialmente, las primeras tres estrategias para trabajar con las SCD, las cuales fueron:  tipo 1, tipo 2 y tipo 3. Pero con el tiempo se requirió la misma necesidad de mejora y se le adicionaron las tipo 4, tipo 5 y tipo 6; estas nuevas categorías, nacieron de los profesionales que trabajan en el tema, modelando y estudiando en profundidad dichos modelos:  
           ul.lista-ul--color
             li 
               i.fas.fa-circle.circle

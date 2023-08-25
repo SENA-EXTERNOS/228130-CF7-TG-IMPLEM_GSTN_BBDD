@@ -6,7 +6,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Fuente de datos
+      h1 Fuentes de datos
 
     .row.justify-content-between.mb-5
       .col-md-6.col-lg-5.mb-3
@@ -93,7 +93,7 @@
               img(src='@/assets/curso/temas/tema1/img-6.svg')
         .row
           .col-md-7.mb-4.mb-md-0
-            p Sin embargo, esta realidad y maravillas actuales, no han existido siempre. Comparando sus inicios, por allá en los años 1960, cuando se hablaba de las bases de datos de navegación, que no era más que una base de datos jerárquica basada en un modelo de árbol que hacía posible relaciones de uno a muchos, para luego evolucionar a las bases de datos de red, que ya permitía relaciones múltiples, que realmente fueron las primeras herramientas que permitían un almacenamiento y manipulación de datos, cercano a lo que se conoce hoy. Luego en la década de 1980, donde las bases de datos relacionales revolucionaron al mundo del <em> software</em>, a tal punto que incluso hoy, las seguimos utilizando. Cuando aparecieron las bases de datos orientadas a objetos, ya en los años 1990 y finalmente por estos días, trabajamos con las bases de datos NoSQL, que aparecen como necesidad apremiante y obligatoria en el <em>boom</em> insospechado de internet e imperiosa de contar con mayor y mayor velocidad para el manejo de los datos no estructurados, como su nombre lo indica. Todo lo anterior, para facilitar las bases de datos en la nube e incluso las de autogestión, que vislumbran un futuro inmediato prometedor y que genera muchas expectativas puesto que la gestión de almacenamiento de datos aún tiene puntos más altos que aprovechar y explotar (Wanumen et al., 2017).
+            p Sin embargo, esta realidad y maravillas actuales, no han existido siempre. Comparando sus inicios, por allá en los años 1960, cuando se hablaba de las bases de datos de navegación, que no era más que una base de datos jerárquica basada en un modelo de árbol que hacía posible relaciones de uno a muchos, para luego evolucionar a las bases de datos de red, que ya permitía relaciones múltiples, que realmente fueron las primeras herramientas que permitían un almacenamiento y manipulación de datos, cercano a lo que se conoce hoy. Luego, en la década de 1980, donde las bases de datos relacionales revolucionaron al mundo del <em> software</em>, a tal punto que incluso hoy, las seguimos utilizando. Cuando aparecieron las bases de datos orientadas a objetos, ya en los años 1990 y finalmente por estos días, trabajamos con las bases de datos NoSQL, que aparecen como necesidad apremiante y obligatoria en el <em>boom</em> insospechado de internet e imperiosa de contar con mayor y mayor velocidad para el manejo de los datos no estructurados, como su nombre lo indica. Todo lo anterior, para facilitar las bases de datos en la nube e incluso las de autogestión, que vislumbran un futuro inmediato, prometedor y que genera muchas expectativas, puesto que la gestión de almacenamiento de datos aún tiene puntos más altos que aprovechar y explotar (Wanumen et al., 2017).
           .col-md-5
             figure
               img(src='@/assets/curso/temas/tema1/img-7.svg')
@@ -112,7 +112,7 @@
             img(src='@/assets/curso/temas/tema1/img-8.svg')
 
       .col-md-6.col-lg-6
-        p Actualmente el <em>marketing</em> es una fuente de ventas y aumento de ellas; en todos los campos de la sociedad moderna, todas las empresas buscan mejorar sus ingresos, aumentado sus ventas, basados en distintos modelos de divulgación y estrategias comerciales, que tienen un denominador común: las bases de datos. Se debe tener claro que estas estrategias y acciones, parten de una simple base datos de sus clientes, es decir, el principio es muy simple: ¿qué se le puede ofrecer a los clientes si no se sabe lo que necesitan? Esto traduce en que se debe tener la información clave de los clientes para poder tomar las decisiones correctas en cuanto al ofrecimiento de uno u otro producto, lo que desemboca en escoger el tipo de base datos que se requiere, teniendo en cuenta que el mercado nos ofrece varias posibilidades. (Valderrey, 2020)
+        p Actualmente, el <em>marketing</em> es una fuente de ventas y aumento de ellas; en todos los campos de la sociedad moderna, todas las empresas buscan mejorar sus ingresos, aumentado sus ventas, basados en distintos modelos de divulgación y estrategias comerciales, que tienen un denominador común: las bases de datos. Se debe tener claro que estas estrategias y acciones, parten de una simple base datos de sus clientes, es decir, el principio es muy simple: ¿qué se le puede ofrecer a los clientes si no se sabe lo que necesitan? Esto traduce en que se debe tener la información clave de los clientes para poder tomar las decisiones correctas en cuanto al ofrecimiento de uno u otro producto, lo que desemboca en escoger el tipo de base datos que se requiere, teniendo en cuenta que el mercado nos ofrece varias posibilidades. (Valderrey, 2020)
 
     p.mb-5 Las bases de datos nos presentan una amplia gama de posibilidades, dependiendo de la necesidad que tenga el proyecto de desarrollo de software en construcción, lo que aporta facilidad para utilizar, específicamente, la que cubra esa necesidad. Se presentan a continuación, algunos tipos de bases de datos: 
 
@@ -124,16 +124,16 @@
               img(src='@/assets/curso/temas/tema1/img-9.svg')
           .tarjeta.fnd-5.p-3(x="41.8%" y="31%" numero="1")
             h3 Bases de datos relacionales: 
-            p conjunto de tablas, con sus relaciones, cada tabla, está compuesta por filas y columnas que componen los registros y cada registro o fila tiene un dato único e irrepetible.
+            p Conjunto de tablas, con sus relaciones, cada tabla, está compuesta por filas y columnas que componen los registros y cada registro o fila tiene un dato único e irrepetible.
           .tarjeta.fnd-5.p-3(x="64.2%" y="25%" numero="2")
             h3 Bases de datos orientadas a objetos:
-            p la información que se maneja en ellas se representa en forma de objetos. 
+            p La información que se maneja en ellas se representa en forma de objetos. 
           .tarjeta.fnd-5.p-3(x="26.3%" y="60%" numero="3")
             h3 Almacenes de datos:
-            p creados para manejo de datos a gran escala.
+            p Creados para manejo de datos a gran escala.
           .tarjeta.fnd-5.p-3(x="69.3%" y="59.1%" numero="4")
             h3 Bases de datos NoSQL: 
-            p hacen posible el almacenamiento de grandes cantidades de información, sin la utilización de las relaciones entre sus objetos.
+            p Hacen posible el almacenamiento de grandes cantidades de información, sin la utilización de las relaciones entre sus objetos.
 
         .tarjeta.color-primario.p-3.mb-5
           .row.justify-content-around.align-items-center
@@ -168,7 +168,7 @@
           .row(titulo="Uso")
               p Es imposible ocultar que cuando se pretenden trabajar con una cantidad grande de información, es muy incómodo. Uno de los casos más frecuentes de la utilización de archivos planos, son los famosos documentos CSV (valores separados por coma), que, como su nombre lo indica, presenta cada campo o columna separados por una coma. Además, la información almacenada en este tipo de archivos (CSV), respetan el estándar estadounidense conocido como Código ASCII, utilizado mundialmente para el intercambio de información.
           .row(titulo="Contenido")
-              p El contenido propiamente dicho de los archivos planos, realmente no tiene un formato especifico, salvo algunos datos alfanuméricos. Ahora bien, las longitudes de cada columna o campo, adicionado a los antes citados formatos, definen la estructura de la información almacenada en ellos.
+              p El contenido propiamente dicho de los archivos planos, realmente no tiene un formato específico, salvo algunos datos alfanuméricos. Ahora bien, las longitudes de cada columna o campo, adicionado a los antes citados formatos, definen la estructura de la información almacenada en ellos.
           .row(titulo="¿Qué es?")
               p Una base de datos de archivo plano no es más que un repositorio bidimensional simple de datos afines, los cuales están organizados en filas o registros, dentro de dichas filas en columnas o campos. Por supuesto que cada fila tiene el mismo tipo de datos que su correspondiente de otras filas del archivo plano. Todo esto define cada columna con sus tipos de datos, estableciendo un límite en la cantidad de caracteres disponibles para representar la información del mencionado campo. Como es apenas lógico en este tipo de archivos, separamos cada campo por una coma, cuyo carácter ASCII es la combinación de teclas Alt + 44, aunque también se separan por un retorno de carro, cuyo carácter ASCII es la combinación de las teclas Atl + 13.
           .row(titulo="Características")
@@ -193,7 +193,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         .cajon.color-acento-contenido.p-4.mb-4.fnd-3 
-          p La forma más sencilla y simpe de explicar la arquitectura de las API, es utilizando el modelo cliente-servidor, donde quien envía solicitudes es el cliente y quien las responde es el servidor. En un restaurante se tiene N cantidad de comensales, que realizan todo tipo de pedidos, y estos son los clientes; el personal del restaurante, que atiende y responde cada uno de esos pedidos, son el servidor.
+          p La forma más sencilla y simple de explicar la arquitectura de las API, es utilizando el modelo cliente-servidor, donde quien envía solicitudes es el cliente y quien las responde es el servidor. En un restaurante se tiene N cantidad de comensales, que realizan todo tipo de pedidos, y estos son los clientes; el personal del restaurante, que atiende y responde cada uno de esos pedidos, son el servidor.
 
     p.mb-5 Básicamente, las APIs pueden funcionar dependiendo del motivo y en qué momento fueron creadas; veamos este proceso:
 
@@ -221,7 +221,7 @@
       SlyderA(tipo="b")
         .row.align-items-center
           .col-md-7.mb-4.mb-md-0
-            p El Extensible <em>Markup Language</em> o XML (por sus siglas en inglés), es un lenguaje de marcado que tiene estructurado y muy bien especificado un conjunto de reglas para la codificación de documentos. Precisando el concepto, lo que se llama “lenguaje de marcado” es una serie de reglas con sus consecuentes códigos, que se emplean para analizar información, previamente leída de textos que anteriormente fueron creados por humanos o computadores. En otras palabras, un poco menos técnicas, XML nos provee de una plataforma para especificar elementos que permitan la creación de formatos y elaborar un lenguaje que puede llegar a ser personalizado. 
+            p El Extensible <em>Markup Language</em> o XML (por sus siglas en inglés), es un lenguaje de marcado que tiene estructurado y muy bien especificado un conjunto de reglas para la codificación de documentos. Precisando el concepto, lo que se llama “lenguaje de marcado” es una serie de reglas con sus consecuentes códigos, que se emplean para analizar información, previamente leída, de textos que anteriormente fueron creados por humanos o computadores. En otras palabras, un poco menos técnicas, XML nos provee de una plataforma para especificar elementos que permitan la creación de formatos y elaborar un lenguaje que puede llegar a ser personalizado. 
           .col-md-5
             figure
               img(src='@/assets/curso/temas/tema1/img-13.svg')    
