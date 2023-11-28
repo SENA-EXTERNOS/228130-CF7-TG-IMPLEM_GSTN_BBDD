@@ -253,7 +253,7 @@ export default {
       referencia:
         'Medina, J., Pineda, E. & Téllez, F. (2019). Requerimientos de <em>software</em>: prototipado,<em> software</em> heredado y análisis de documentos.<em> Ingenieria y Desarrollo, 37</em>(2).',
       link:
-        'http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0122-34612019000200327',
+        'https://www.redalyc.org/journal/852/85263724010/html/',
     },
     {
       referencia:
